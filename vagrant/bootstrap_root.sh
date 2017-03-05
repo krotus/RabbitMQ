@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 apt update
-apt install -y php php-mbstring php-xdebug php-xml zip unzip composer doxygen graphviz
+apt install -y php php-mbstring php-xdebug php-xml zip unzip composer doxygen graphviz php-bcmath rabbitmq-server
 
 # Place a color prompt into the ssh terminal.
 
